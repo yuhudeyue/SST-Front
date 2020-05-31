@@ -8,6 +8,8 @@ Anyone who would use these datasets for research is suggested to cite the follow
 
 这四个数据集分别是海洋表面温度灰度图像无海洋锋数据集，海洋表面温度灰度图像海洋锋数据集，海洋表面温度彩色图像无海洋锋数据集和海洋表面温度彩色图像海洋锋数据集。这些数据集用于在以下两篇论文中进行深度网络的训练，以实现基于海洋表面温度图像海洋锋的自动分类任务。任何需要使用这些数据集的个人或者机构请考虑引用下面的这两篇文章。
 
-Lima E, Sun X, Dong J, et al. Learning and transferring convolutional neural network knowledge to ocean front recognition[J]. IEEE Geoscience and Remote Sensing Letters, 2017, 14(3): 354-358.
+[1] Lima E, Sun X, Dong J, et al. Learning and transferring convolutional neural network knowledge to ocean front recognition[J]. IEEE Geoscience and Remote Sensing Letters, 2017, 14(3): 354-358.
 
-Lima E, Sun X, Yang Y, et al. Application of deep convolutional neural networks for ocean front recognition[J]. Journal of Applied Remote Sensing, 2017, 11(4): 042610.
+[2] Lima E, Sun X, Yang Y, et al. Application of deep convolutional neural networks for ocean front recognition[J]. Journal of Applied Remote Sensing, 2017, 11(4): 042610.
+
+[3] X. Sun, C. Wang, J. Dong, E. Lima, and Y. Yang, "A Multiscale Deep Framework for Ocean Fronts Detection and Fine-Grained Location," IEEE Geoscience and Remote Sensing Letters, vol. 16, pp. 178-182, 2018.
